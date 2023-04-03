@@ -1,0 +1,12 @@
+{
+  "name": "exhale-studio",
+  "version": "0.0.1",
+  "description": "Exhale Studio npm library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["exhale studio", "web3", "component", "library"],
+  "author": "Arek Rybicki",
+  "license": "ISC"
+}
