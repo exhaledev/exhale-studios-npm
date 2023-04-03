@@ -1,12 +1,25 @@
 {
   "name": "exhale-studio",
-  "version": "0.0.1",
-  "description": "Exhale Studio npm library",
+  "version": "1.0.0",
+  "description": "Exhale Studio npm library of components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["exhale studio", "web3", "component", "library"],
-  "author": "Arek Rybicki",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exhaledev/exhale-studios-npm.git"
+  },
+  "keywords": [
+    "Exhale",
+    "Studio",
+    "web3",
+    "library"
+  ],
+  "author": "Arek Rybicki @Arek_Ryb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exhaledev/exhale-studios-npm/issues"
+  },
+  "homepage": "https://github.com/exhaledev/exhale-studios-npm#readme"
 }
