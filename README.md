@@ -1,1 +1,5 @@
-hi
+
+
+``` npm run build ```
+
+``` npm publish ```
